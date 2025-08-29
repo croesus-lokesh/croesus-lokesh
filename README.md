@@ -1,3 +1,10 @@
+<!-- Feedback button (top-right) -->
+<p align="right">
+  <a href="https://forms.gle/u4AvQmeCR5igKB9K6" target="_blank">
+    <img src="https://img.shields.io/badge/Submit%20Feedback-blue?style=for-the-badge&logo=googleforms&logoColor=white" alt="Submit Feedback"/>
+  </a>
+</p>
+
 # Hi, I'm Lokesh! 👋
 
 ### 🌱 About Me
